@@ -1,0 +1,25 @@
+{
+  "name": "canvaspen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/19a5aceb069712707a76d323a1945bf3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/19a5aceb069712707a76d323a1945bf3"
+  },
+  "homepage": "https://gist.github.com/19a5aceb069712707a76d323a1945bf3",
+  "dependencies": {
+    "express": "^4.18.1",
+    "helmet": "^5.1.0"
+  }
+}
